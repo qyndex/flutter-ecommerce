@@ -8,3 +8,5 @@ build/
 .DS_Store
 .env
 pubspec.lock
+coverage/
+*.g.dart
